@@ -1,3 +1,5 @@
+This fork should include my custom keyboard firmware for the NCR80. It should include the necessary code to drive my solenoid circuit.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
